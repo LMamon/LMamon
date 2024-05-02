@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LMamon)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lmamon&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=EB5454&fire=EB5454)](https://git.io/streak-stats)
 
 ♦	Hi I'm Louis and I’m in my final year at UMGC 📚
 
