@@ -11,6 +11,7 @@
 	⚡ Fun fact: honey never spoils
  
 REACH OUT IF
+
 ♦	💬 You are looking to hire for any positions for which I could be a good fit
 
 ♦	🍎 I am currently looking for full-time opportunities.
