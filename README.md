@@ -7,6 +7,7 @@
 ♦	🌱 I’m currently learning data engineering: quality and governance
 
 ♦	I’m looking to collaborate on ML, automation, and sensor fusion
+
 	⚡ Fun fact: honey never spoils
  
 REACH OUT IF
