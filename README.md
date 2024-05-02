@@ -2,7 +2,7 @@
 
 ♦	Hi I'm Louis and I’m in my final year at UMGC 📚
 
-	👨🏾‍💻 I’m interested in data science and SWE
+	👨🏾‍💻 I’m interested in data science and computer vision
 
 ♦	🌱 I’m currently learning data engineering: quality and governance
 
