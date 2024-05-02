@@ -5,7 +5,7 @@
 ♦	🌱 I’m currently learning data engineering: quality and governance
 ♦	I’m looking to collaborate on ML, automation, and sensor fusion
 	⚡ Fun fact: honey never spoils
-
+ 
 REACH OUT IF
 ♦	💬 You are looking to hire for any positions for which I could be a good fit
 ♦	🍎 I am currently looking for full-time opportunities.
