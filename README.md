@@ -4,7 +4,7 @@
 
 	👨🏾‍💻 I’m interested in data science and computer vision
 
-♦	🌱 I’m currently learning data engineering: quality and governance
+♦	🌱 I’m currently working in data engineering: quality and governance
 
 ♦	I’m looking to collaborate on ML, automation, and sensor fusion
 
