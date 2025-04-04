@@ -1,5 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=lmamon&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=EB5454&fire=EB5454)](https://git.io/streak-stats)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)]([https://www.kaggle.com/louisjm])
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)]([![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/louisjm)
 
 ♦	Hi I'm Louis and I’m in my final year at UMGC 📚
 
