@@ -2,21 +2,21 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/louisjm)
 
-♦	Hi I'm Louis and I’m in my final year at UMGC 📚
+[![Hugging Face](https://huggingface.co/roylvzn)
 
-	👨🏾‍💻 I’m interested in data science and computer vision
+👨🏾‍💻 Diving into ML and computer vision projects outside of work
 
-♦	🌱 I’m currently working in data engineering: quality and governance
+🤖 I’m looking to collaborate on ML, automation, and sensor fusion
 
-♦	I’m looking to collaborate on ML, automation, and sensor fusion
+📚 BS in Computer Science and Cybersecurity from UMGC
 
 	⚡ Fun fact: honey never spoils
  
 REACH OUT IF
 
-♦	💬 You are looking to hire for any positions for which I could be a good fit
+💬 You’re hiring for full-time roles where I can contribute my skills and grow
 
-♦	🍎 I am currently looking for part-time/intern opportunities.
+📈 You’re working on innovative projects in ML, CV, or data-driven applications
 
 
 <!---
