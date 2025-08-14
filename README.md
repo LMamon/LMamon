@@ -4,7 +4,7 @@
 
 [![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/roylvzn)
 
-👨🏾‍💻 Diving into ML and computer vision projects outside of work
+👨🏾‍💻 Experimenting with ML and computer vision whenever I can
 
 🤖 I’m looking to collaborate on ML, automation, and sensor fusion
 
