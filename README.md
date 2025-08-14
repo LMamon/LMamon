@@ -2,7 +2,7 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/louisjm)
 
-[![Hugging Face](https://huggingface.co/roylvzn)
+[![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/roylvzn)
 
 👨🏾‍💻 Diving into ML and computer vision projects outside of work
 
