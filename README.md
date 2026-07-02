@@ -4,21 +4,14 @@
 
 [![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/roylvzn)
 
-👨🏾‍💻 working with ML and computer vision
-
-🤖 I’m looking to collaborate on ML, automation, and sensor fusion
+👨🏾‍💻 CV + Autonomy 🤖
 
 📚 BS in Computer Science and Cybersecurity from UMGC
 
+
 	⚡ Fun fact: honey never spoils
  
-REACH OUT IF
-
-💬 You’re hiring for full-time roles where I can contribute my skills and grow
-
-📈 You’re working on innovative projects in ML, CV, or data-driven applications
-
-
+ex-AIE @ usaf
 <!---
 LMamon/LMamon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
