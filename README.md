@@ -4,7 +4,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/louisjm)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/roylvzn)
 [<img src="https://lmamon.github.io/icon-dark.svg" alt="Website" height="25">](https://lmamon.github.io/)
-
+[<img src="./assets/icons/youtube.svg" alt="Youtube" height="25">](https://youtube.com/@vzn-nx?si=a1Xh9Ol92_JwzMnR)
 
 👨🏾‍💻 CV + Autonomy 🤖
 
