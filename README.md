@@ -32,6 +32,8 @@ BS in Computer Science and Cybersecurity from UMGC
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="git" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="30" alt="docker" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" height="30" alt="ros2" />
+	<img src="./assets/icons/langgraph.svg" height="30" alt="langgraph" />
+	<img src="./assets/icons/llama-cpp.svg" height="30" alt="llama.cpp" />
 </p>
 <h3 align="left">Platforms</h3>
 <p align="left">
@@ -44,6 +46,7 @@ BS in Computer Science and Cybersecurity from UMGC
 	<img src="./assets/icons/auterion.svg" height="30" alt="Auterion" />
 	<img src="./assets/icons/nvidia.svg" height="30" alt="Nvidia" />
 	<img src="./assets/icons/px4_logo.svg" height="30" alt="px4-autopilot" />
+	
 </p>
 
 ex-AIE @ usaf
