@@ -37,6 +37,7 @@ BS in Computer Science and Cybersecurity from UMGC
 	<img src="./assets/icons/Microsoft-Foundry.svg" height="30" alt="Microsoft Foundry" />
 	<img src="./assets/icons/palantir.svg" height="30" alt="Palantir AIP" />
 	<img src="./assets/icons/auterion.svg" height="30" alt="Auterion" />
+	<img src="./assets/icons/nvidia.svg" height="30" alt="Nvidia" />
 </p>
 
 ex-AIE @ usaf
