@@ -20,8 +20,11 @@ BS in Computer Science and Cybersecurity from UMGC
 </p>
 <h3 align="left">Technologies</h3>
 <p align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt="mongoDB"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="scikitlearn" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" alt="numpy" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="30" alt="pandas" />
@@ -32,12 +35,15 @@ BS in Computer Science and Cybersecurity from UMGC
 </p>
 <h3 align="left">Platforms</h3>
 <p align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu"/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gazebo/gazebo-original.svg" height="30" alt="gazebo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="30" alt="unity" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws"/>
 	<img src="./assets/icons/Microsoft-Foundry.svg" height="30" alt="Microsoft Foundry" />
 	<img src="./assets/icons/palantir.svg" height="30" alt="Palantir AIP" />
 	<img src="./assets/icons/auterion.svg" height="30" alt="Auterion" />
 	<img src="./assets/icons/nvidia.svg" height="30" alt="Nvidia" />
+	<img src="./assets/icons/px4_logo.svg" height="30" alt="px4-autopilot" />
 </p>
 
 ex-AIE @ usaf
